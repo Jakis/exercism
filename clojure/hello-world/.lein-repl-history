@@ -1,0 +1,6 @@
+(replace s aaa bbb)
+(replace "aaa" "bbb")
+(replace s "aaa" "bbb")
+(clojure.string/replace "The color is red" #"red" "blue")
+(clojure.string/replace "AAAABBBBBCCCCCDDDDAAAABBBB" #"A" "B")
+exit

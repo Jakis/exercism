@@ -1,0 +1,19 @@
+{
+  "bob_test.py::BobTest::test_alternate_silence": true, 
+  "bob_test.py::BobTest::test_multiple_line_question": true, 
+  "bob_test.py::BobTest::test_non_question_ending_with_whitespace": true, 
+  "bob_test.py::BobTest::test_only_numbers": true, 
+  "bob_test.py::BobTest::test_other_whitespace": true, 
+  "bob_test.py::BobTest::test_prolonged_silence": true, 
+  "bob_test.py::BobTest::test_shouting": true, 
+  "bob_test.py::BobTest::test_shouting_gibberish": true, 
+  "bob_test.py::BobTest::test_shouting_numbers": true, 
+  "bob_test.py::BobTest::test_shouting_with_no_exclamation_mark": true, 
+  "bob_test.py::BobTest::test_shouting_with_special_characters": true, 
+  "bob_test.py::BobTest::test_silence": true, 
+  "bob_test.py::BobTest::test_starting_with_whitespace": true, 
+  "bob_test.py::BobTest::test_statement_containing_question_mark": true, 
+  "bob_test.py::BobTest::test_stating_something": true, 
+  "bob_test.py::BobTest::test_talking_forcefully": true, 
+  "bob_test.py::BobTest::test_using_acronyms_in_regular_speech": true
+}
